@@ -1,4 +1,4 @@
-package rabbitmqcurso.consumer.rabbitmq.consumers;
+package rabbitmq.curso.consumerservice.rabbitmq.consumers;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

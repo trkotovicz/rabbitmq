@@ -1,4 +1,4 @@
-package rabbitmqcurso.consumer;
+package rabbitmq.curso.consumerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
